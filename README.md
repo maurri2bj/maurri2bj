@@ -4,12 +4,12 @@ What's poppin' dawgs👋
  
  ✨re yo amiga ✨
 
-Fundador de fumar.
+Fundador de fumar.                                  DEV in process....
 
-
-   DEV in process....
-
-   KCD Enjoyer
+   KCD Enjoyer:
+   
 ![Demo](https://github.com/maurri2bj/maurri2bj/blob/main/kcd2-kingdom-come-deliverance.gif)
+
+
                         
 ![Demo](https://github.com/maurri2bj/maurri2bj/blob/main/kcd-kingdom-come-deliverance.gif)
