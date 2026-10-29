@@ -1,6 +1,6 @@
 What's poppin' dawgs👋
 
-'https://github.com/maurri2bj/maurri2bj/blob/main/metal-gear-solid-mgs.gif'
+![Demo](https://github.com/maurri2bj/maurri2bj/blob/main/metal-gear-solid-mgs.gif)
                         ✨re yo amiga ✨
 
 
